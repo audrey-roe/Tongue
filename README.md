@@ -1,4 +1,4 @@
-# Tongues - Your Multi-Language Translator
+# Tongues - Multi-Language Translator
 
 Tongues is a versatile translation app built with WinUI, offering a user-friendly interface for translating text between multiple languages. It leverages the power of various translation services to provide you with quick and accurate translations. Whether you need to communicate in a foreign language or simply explore new languages, Tongues makes the process seamless.
 
