@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tongue (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Tongue (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
