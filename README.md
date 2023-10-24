@@ -47,7 +47,7 @@ Tongues is a versatile translation app built with WinUI, offering a user-friendl
 
 ## Appreciation
 
-We would like to express our heartfelt appreciation to [Designer's Name], whose creative vision and inspiration were instrumental in bringing Tongues to life. Your dedication and design expertise have greatly enriched the project, making it a user-friendly and visually appealing tool for language enthusiasts.
+We would like to express our heartfelt appreciation to SimpleBear `@itsWindows11`, whose creative vision and inspiration were instrumental in bringing Tongues to life. Your dedication and design expertise have greatly enriched the project, making it a user-friendly and visually appealing tool for language enthusiasts.
 
 ## Contributing
 
